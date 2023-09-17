@@ -1,5 +1,5 @@
 # tic-tac-toe
-Tic Tac Toe game, created as part of TOP curriculum. 
+Simple Tic Tac Toe game
 
 [Live Page](https://ta457.github.io/tic-tac-toe/)
 
